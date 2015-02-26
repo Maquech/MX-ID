@@ -4,6 +4,6 @@
 --markup markdown
 --protected --private
 --readme README.md
-lib/**/*.rb -  LICENSE.txt REFERENCIAS.md
+lib/**/*.rb - LICENSE.txt REFERENCIAS.md
 
 
