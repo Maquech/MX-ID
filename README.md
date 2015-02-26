@@ -6,7 +6,7 @@
 
 [![Coverage Status](https://coveralls.io/repos/Maquech/MX-ID/badge.svg?branch=master)](https://coveralls.io/r/Maquech/MX-ID?branch=master)
 
-[![Build Status](https://travis-ci.org/Maquech/MX-ID.svg)](https://travis-ci.org/Maquech/MX-ID)
+[![Build Status](https://travis-ci.org/Maquech/MX-ID.svg?branch=master)](https://travis-ci.org/Maquech/MX-ID)
 
 
 ## Installation
