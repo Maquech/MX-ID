@@ -8,7 +8,7 @@ group :development, :ci_filter do
   gem 'guard-rspec', require: false
   gem "pry"
   gem "pry-remote"
-  gem "pry-byebug", platform: [:mri_20, :mri_21, :mri_22, :mri]
+  gem "pry-byebug", platform: [:mri_20, :mri_21, :mri_22]
   gem "pry-nav", platform: [:mri_19, :jruby]
   gem 'terminal-notifier'
   gem 'terminal-notifier-guard'
