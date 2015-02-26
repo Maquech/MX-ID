@@ -4,9 +4,13 @@
 
 # MX::ID
 
-[![Coverage Status](https://coveralls.io/repos/Maquech/MX-ID/badge.svg?branch=master)](https://coveralls.io/r/Maquech/MX-ID?branch=master)
 
 [![Build Status](https://travis-ci.org/Maquech/MX-ID.svg?branch=master)](https://travis-ci.org/Maquech/MX-ID)
+
+[![Code Climate](https://codeclimate.com/github/Maquech/MX-ID/badges/gpa.svg)](https://codeclimate.com/github/Maquech/MX-ID)
+
+[![Coverage Status](https://coveralls.io/repos/Maquech/MX-ID/badge.svg?branch=master)](https://coveralls.io/r/Maquech/MX-ID?branch=master)
+
 
 
 ## Installation
