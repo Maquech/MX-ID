@@ -73,7 +73,7 @@ Pendiente...
 
 ## Contributing / Contribuir
 
-1. Fork it ( https://github.com/Maquech/mx-id/fork )
+1. Fork it ( https://github.com/Maquech/MX-ID/fork )
 2. Create your feature branch (`git checkout -b my-new-feature`)
 3. Commit your changes (`git commit -am 'Add some feature'`)
 4. Push to the branch (`git push origin my-new-feature`)
@@ -87,7 +87,7 @@ Puedes contribuir mandándonos tus observaciones sobre la implementación de los
 
 Ahora, diviérte con esta traducción (si sabes el término correcto en español, háznoslo saber por favor):
 
-1. Crea tu copia del repositorio ( https://github.com/Maquech/mx-id/fork )
+1. Crea tu copia del repositorio ( https://github.com/Maquech/MX-ID/fork )
 2. Crea tu rama con la funcionalidad propuesta (`git checkout -b mi-nueva-funcionalidad-shubiduby`)
 3. Compromete tus cambios (`git commit -am 'Nueva funcionalidad shubiduby'`)
 4. Empuja la rama a tu repositorio (`git push origin mi-nueva-funcionalidad-shubiduby`)
@@ -102,7 +102,7 @@ Use `bundle exec yard server --port 8828 --reload` para generar la documentació
 ## Code status / Estado del código
 
 [![Build Status][Travis-CI-badge]][Travis-CI-url] [![Code Climate][Code Climate-badge]][Code Climate-url] [![Coverage Status][Coveralls-badge]][Coveralls-url]
-
+[![Gem Version][gem-badge]][gem-url]
 
 [Travis-CI-badge]: https://travis-ci.org/Maquech/MX-ID.svg?branch=master
 [Travis-CI-url]: https://travis-ci.org/Maquech/MX-ID
@@ -110,4 +110,5 @@ Use `bundle exec yard server --port 8828 --reload` para generar la documentació
 [Code Climate-url]: https://codeclimate.com/github/Maquech/MX-ID
 [Coveralls-badge]: https://coveralls.io/repos/Maquech/MX-ID/badge.svg?branch=master
 [Coveralls-url]: https://coveralls.io/r/Maquech/MX-ID?branch=master
-
+[gem-badge]: https://badge.fury.io/rb/MX-ID.svg
+[gem-url]: http://badge.fury.io/rb/MX-ID
