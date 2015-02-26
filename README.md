@@ -2,6 +2,8 @@
 
 Utilites for validation of Mexican government identifiers.
 
+---
+
 Utilerías para validación de identificadores del gobierno mexicano.
 
 ## Why and what for / Por qué y para qué
@@ -66,9 +68,7 @@ El algoritmo aquí implementado para generar y validar un R.F.C. ha salido de va
 
 1. para personas morales registradas antes y después de 1998
 
-
-
-### C.U.R.P. (Clave Única de Registro de Población)
+Pendiente...
 
 
 ## Contributing / Contribuir
@@ -101,15 +101,13 @@ Use `bundle exec yard server --port 8828 --reload` para generar la documentació
 
 ## Code status / Estado del código
 
-
 [![Build Status][Travis-CI-badge]][Travis-CI-url] [![Code Climate][Code Climate-badge]][Code Climate-url] [![Coverage Status][Coveralls-badge]][Coveralls-url]
 
 
-
-[Travis-CI-badge]:(https://travis-ci.org/Maquech/MX-ID.svg?branch=master)
-[Travis-CI-url]:(https://travis-ci.org/Maquech/MX-ID)
-[Code Climate-badge]:(https://codeclimate.com/github/Maquech/MX-ID/badges/gpa.svg)
-[Code Climate-url]:(https://codeclimate.com/github/Maquech/MX-ID)
-[Coveralls-badge]:(https://coveralls.io/repos/Maquech/MX-ID/badge.svg?branch=master)
-[Coveralls-url]:(https://coveralls.io/r/Maquech/MX-ID?branch=master)
+[Travis-CI-badge]: https://travis-ci.org/Maquech/MX-ID.svg?branch=master
+[Travis-CI-url]: https://travis-ci.org/Maquech/MX-ID
+[Code Climate-badge]: https://codeclimate.com/github/Maquech/MX-ID/badges/gpa.svg
+[Code Climate-url]: https://codeclimate.com/github/Maquech/MX-ID
+[Coveralls-badge]: https://coveralls.io/repos/Maquech/MX-ID/badge.svg?branch=master
+[Coveralls-url]: https://coveralls.io/r/Maquech/MX-ID?branch=master
 
