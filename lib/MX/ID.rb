@@ -1,7 +1,7 @@
 # encoding: utf-8
-require "I18n"
+#require "i18n"
 require "numbers_and_words"
-require "MX/blank"
+require "activesupport" unless defined?(ActiveSupport)
 require "MX/numero_romano"
 require "MX/ID/version"
 require "MX/ID/auxiliar"
